@@ -73,7 +73,7 @@ dotsyncrc
 #zsh/zlogout
 #zsh/zprofile
 #zsh/zshenv
-#zsh/zshrc
+zsh/zshrc
 [endfiles]
 
 # Hosts to sync
@@ -89,4 +89,3 @@ dotsyncrc
 #host8.example.net               rsync=host2.example.com                                #rsync mirror, push from host2
 #host9.example.net               rsync=host2.example.com                                #rsync mirror, push from host2
 [endhosts]
-
